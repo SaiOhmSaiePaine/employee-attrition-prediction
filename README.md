@@ -70,9 +70,19 @@ Attrition poses a significant risk to organizational performance due to talent l
 
 ## 📁 Repository Structure
 
-```markdown
- employee-attrition-prediction/ ├── employee-attrition-prediction.ipynb # Main notebook ├── Project Report.pdf # Full project documentation ├── images/ # Visual output for README │ ├── confusion_matrix_dt.png │ ├── feature_importance_dt.png │ ├── confusion_matrix_rf.png │ ├── feature_importance_rf.png │ ├── kmeans_pca.png │ ├── kmeans_cluster_profile.png ├── requirements.txt # Dependencies └── README.md # This file 
-```
+employee-attrition-prediction/
+├── employee-attrition-prediction.ipynb # Main notebook
+├── Project Report.pdf # Full project documentation
+├── images/ # Visual output for README
+│ ├── confusion_matrix_dt.png
+│ ├── feature_importance_dt.png
+│ ├── confusion_matrix_rf.png
+│ ├── feature_importance_rf.png
+│ ├── kmeans_pca.png
+│ ├── kmeans_cluster_profile.png
+├── requirements.txt # Dependencies
+└── README.md # This file
+
 ---
 
 ## 📂 Dataset
