@@ -64,7 +64,7 @@ Attrition poses a significant risk to organizational performance due to talent l
 ![KMeans Clustering PCA](images/kmeans_pca.png)
 
 **Cluster Profile Heatmap**  
-![Cluster Profiles](images/kmeans_cluster_profile.png)
+![Cluster Profiles](images/kmean_cluster_profile.png)
 
 ---
 
