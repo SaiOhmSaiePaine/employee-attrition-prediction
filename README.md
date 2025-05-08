@@ -119,5 +119,7 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-📧 Email: your.email@example.com  
+📧 Email: saiohmsaiepaine@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/sai-ohm-saie-paine-43687b283](https://www.linkedin.com/in/sai-ohm-saie-paine-43687b283)
+
+---
