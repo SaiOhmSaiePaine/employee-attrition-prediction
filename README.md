@@ -118,8 +118,9 @@ pip install -r requirements.txt
 
 ---
 
-## 📬 Contact
-
+## Author
+** Sai Ohm Saie Paine**  
+Data Science | Analytics | Singapore  
 📧 Email: saiohmsaiepaine@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/sai-ohm-saie-paine-43687b283](https://www.linkedin.com/in/sai-ohm-saie-paine-43687b283)
 
